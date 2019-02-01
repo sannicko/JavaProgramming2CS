@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="appointmentsapp">
+  <ClassDiagramComponents>
+    <Class name="OneTimeAppointment" package="appointmentsapp" visibility="public" xPosition="128.0" yPosition="668.0">
+      <Fields>
+        <Field name="year" type="int" visibility="private"/>
+        <Field name="month" type="int" visibility="private"/>
+        <Field name="day" type="int" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="occursOn" returnType="boolean" visibility="public">
+          <Argument type="int" name="year"/>
+          <Argument type="int" name="month"/>
+          <Argument type="int" name="day"/>
+        </Method>
+        <Method name="setDay" returnType="void" visibility="public">
+          <Argument type="int" name="day"/>
+        </Method>
+        <Method name="setMonth" returnType="void" visibility="public">
+          <Argument type="int" name="month"/>
+        </Method>
+        <Method name="setYear" returnType="void" visibility="public">
+          <Argument type="int" name="year"/>
+        </Method>
+        <Method name="getDay" returnType="int" visibility="public"/>
+        <Method name="getMonth" returnType="int" visibility="public"/>
+        <Method name="getYear" returnType="int" visibility="public"/>
+        <Method name="toString" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Appointment" package="appointmentsapp" visibility="public" isAbstract="true" xPosition="425.0" yPosition="257.0">
+      <Fields>
+        <Field name="description" type="String" visibility="private"/>
+        <Field name="lastName" type="String" visibility="private"/>
+        <Field name="hour" type="int" visibility="private"/>
+        <Field name="minutes" type="int" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="occursOn" returnType="boolean" visibility="public" isAbstract="true">
+          <Argument type="int" name="year"/>
+          <Argument type="int" name="month"/>
+          <Argument type="int" name="day"/>
+        </Method>
+        <Method name="setLastName" returnType="void" visibility="public">
+          <Argument type="String" name="lastName"/>
+        </Method>
+        <Method name="setDescription" returnType="void" visibility="public">
+          <Argument type="String" name="description"/>
+        </Method>
+        <Method name="setMinutes" returnType="void" visibility="public">
+          <Argument type="int" name="minutes"/>
+        </Method>
+        <Method name="setHour" returnType="void" visibility="public">
+          <Argument type="int" name="hour"/>
+        </Method>
+        <Method name="getDescription" returnType="String" visibility="public"/>
+        <Method name="getLastName" returnType="String" visibility="public"/>
+        <Method name="getHour" returnType="int" visibility="public"/>
+        <Method name="getMinutes" returnType="int" visibility="public"/>
+        <Method name="toString" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="MonthlyAppointment" package="appointmentsapp" visibility="public" xPosition="760.0" yPosition="668.0">
+      <Fields>
+        <Field name="day" type="int" visibility="package"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="occursOn" returnType="boolean" visibility="public">
+          <Argument type="int" name="year"/>
+          <Argument type="int" name="month"/>
+          <Argument type="int" name="day"/>
+        </Method>
+        <Method name="setDay" returnType="void" visibility="public">
+          <Argument type="int" name="day"/>
+        </Method>
+        <Method name="getDay" returnType="int" visibility="public"/>
+        <Method name="toString" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="AppointmentsApp" package="appointmentsapp" visibility="public" xPosition="425.0" yPosition="8.0">
+      <Fields>
+        <Field name="myAppointments" type="Appointment[]" visibility="public" isStatic="true"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="makeOneTimeAppointment" returnType="OneTimeAppointment" visibility="private" isStatic="true"/>
+        <Method name="makeDailyAppointment" returnType="DailyAppointment" visibility="private" isStatic="true"/>
+        <Method name="makeMonthlyAppointment" returnType="MonthlyAppointment" visibility="private" isStatic="true"/>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="DailyAppointment" package="appointmentsapp" visibility="public" xPosition="443.0" yPosition="668.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="occursOn" returnType="boolean" visibility="public">
+          <Argument type="int" name="year"/>
+          <Argument type="int" name="month"/>
+          <Argument type="int" name="day"/>
+        </Method>
+        <Method name="toString" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <IsRelation name="is" source="appointmentsapp.DailyAppointment" target="appointmentsapp.Appointment"/>
+    <IsRelation name="is" source="appointmentsapp.OneTimeAppointment" target="appointmentsapp.Appointment"/>
+    <UseRelation source="appointmentsapp.AppointmentsApp" target="appointmentsapp.DailyAppointment" sourceCardinality="1..1" targetCardinality="1..1"/>
+    <UseRelation source="appointmentsapp.AppointmentsApp" target="appointmentsapp.Appointment" sourceCardinality="1..1" targetCardinality="1..1"/>
+    <IsRelation name="is" source="appointmentsapp.MonthlyAppointment" target="appointmentsapp.Appointment"/>
+    <UseRelation source="appointmentsapp.AppointmentsApp" target="appointmentsapp.MonthlyAppointment" sourceCardinality="1..1" targetCardinality="1..1"/>
+  </ClassDiagramRelations>
+</ClassDiagram>

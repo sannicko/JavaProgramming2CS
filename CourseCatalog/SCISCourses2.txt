@@ -1,0 +1,196 @@
+TCN 6880	3	Telecommunications Public Policy Development and Standards	
+TCN 6820	3	Industrial Development of Telecommunications	
+TCN 6450	3	Wireless Information Systems	
+TCN 6430	3	Networks Management and Control Standards	
+TCN 6420	3	Modeling and Performance Evaluation of Telecommunication Networks	
+TCN 6275	3	Mobile Computing	
+TCN 6270	3	Mble & Wrlss Netwks	
+TCN 6260	3	Internetworking	
+TCN 6230	3	Optical Networks	
+TCN 6215	3	Advanced Network Algorithms	
+TCN 6210	3	Telecommunication Network Analysis and Design	
+TCN 5640	3	Telecommunications Enterprise Planning and Strategy	
+TCN 5455	3	Information Theory	
+TCN 5445	3	Telecommunication Network Programming	
+TCN 5440	3	Sftwr Dvmnt Telecom	
+TCN 5421	3	Theory of Networked Computation	
+TCN 5150	3	Multimedia Computer Communications	
+TCN 5080	3	Secure Telecom Tran	
+TCN 5060	3	Telecomm Soft & Meth	
+TCN 5030	3	Comp Comm Net Techs	
+TCN 5010	3	Telecom Tech & Apps	
+MAP 6127	3	Simulation and Modeling	
+IDC 1000	3	Computer Science for Everyone	
+CTS 4408	3	Database Administration	
+CTS 4348L	3	Unix System Admininistraton	
+CTS 4348	3	Unix System Administration	
+COT 6936	3	Topics in Algorithms	
+COT 6931	3	Topics in Cognitive Science	
+COT 6930	3	Special Topics - Advanced Topics in Theory	
+COT 6421	3	Theory of Computation II	
+COT 6405	3	Analysis of Algorithms	
+COT 5520	3	Computational Geometry	
+COT 5428	3	Formal Foundations for Cybersecurity	
+COT 5407	3	Introduction to Algorithms	
+COT 5310	3	Theory of Computation I	
+COT 4521	3	Introduction to Computational Geometry	
+COT 3541	3	Logic for Computer Science	
+COP 6795	3	Special Topics on Databases	
+COP 6727	3	Advanced Database Systems	
+COP 6611	3	Advanced Operating Systems	
+COP 6556	3	Semantics of Programming Languages	
+COP 6545	3	Advanced Database Management	
+COP 6007	3	Computer Programming Concepts	
+COP 5949	3	Cooperative Education in Computer Science	
+COP 5725	3	Principles of Database Management Systems	
+COP 5621	3	Compiler Construction	
+COP 5614	3	Operating Systems	
+COP 4994	3	Introduction to Parallel Computing	
+COP 4990	3	IT Automation	
+COP 4949	3	Cooperative Education in Computing 2	
+COP 4906	3	Research Experiences in Computer Science	
+COP 4814	3	Component-Based Software Development	
+COP 4813	3	Web Application Programming	
+COP 4722	3	Survey of Database Systems	
+COP 4710	3	Database Management	
+COP 4703	3	Information Storage and Retrieval Concepts	
+COP 4655	3	Mobile Application Development	
+COP 4610L	3	Operating System Principles Lab	
+COP 4610	3	Operating Systems Principles	
+COP 4604	3	Advanced Unix Programming	
+COP 4555	3	Principles of Programming Languages	
+COP 4534	3	Algorithm Techniques	
+COP 4520	3	Introduction to Parallel Computing	
+COP 4516L	1	Competitive Programming Lab	
+COP 4516	3	Competitive Programming and Problem Solving	
+COP 4343	3	Unix System Administration	
+COP 4338	3	Programing 3	
+COP 4226	3	Advanced Windows Programming	
+COP 4009	3	Windows Components Technology	
+COP 4005	3	Windows Programming for IT majors	
+COP 3949	3	Cooperative Education in Computer Science	
+COP 3835	3	Designing Web Pages	
+COP 3832	3	Advanced Web Server Communication	
+COP 3804	3	Intermediate Java Programming	
+COP 3530	3	Data Structures	
+COP 3465	3	Data Structures for IT	
+COP 3353	3	Introduction to Using Unix/Linux Systems	
+COP 3344	3	Introduction to Using Unix/Linux Systems	
+COP 3337	3	Computer Programming II	
+COP 3175	3	Programming in Visual Basic	
+COP 2270	3	C for Engineers (FLAME)	
+COP 2250L	0	LAB SESSION	
+COP 2250	3	Programming in Java	
+COP 2210T	0	Programming I Tutoring	
+COP 2210L	1	Programming I Lab	
+COP 2210	4	Computer Programming I	
+COP 1000L	0	Intro to Computer Programming Lab section	
+COP 1000	3	Introduction to Computer Programming	
+CNT 6208	3	Advanced Topics in Concurrent and Distributed Systems	
+CNT 6207	3	Distributed Processing	
+CNT 4713	3	Net-centric Computing	
+CNT 4513	3	Data Communications	
+CNT 4504	3	Advanced Network Management	
+CNT 4403	3	Computer and Network Security	
+CIS 7980	3	Ph.D. Dissertation	
+CIS 7910	3	Graduate Research	
+CIS 6970	3	Thesis	
+CIS 6933	1	Computer Science Seminar	
+CIS 6931	3	Special Topics - Advanced Topics in Information Processing	
+CIS 6930	3	Advanced Special Topics	
+CIS 6900	3	Independent Study	
+CIS 6612	3	Special Topics - Advanced Topics in Software Engineering	
+CIS 5993	3	Multimedia Systems & Applications	
+CIS 5931	3	Special Topics	
+CIS 5915	3	Research Experience for Graduate Students	
+CIS 5910	1	Project Research	
+CIS 5900	1	Independent Study	
+CIS 5432	3	Advanced IT Automation	
+CIS 5374	3	Information Security and Privacy	
+CIS 5373	3	Systems Security	
+CIS 5372	3	Fundamentals of Computer Security	
+CIS 5370	3	Principles of Cybersecurity	
+CIS 5346	3	Storage Systems	
+CIS 5027	3	Computer Systems Fundamentals	
+CIS 4930	3	Special Topics (Data Center Operations)	
+CIS 4912	3	Research Experience for Undergraduate Students	
+CIS 4911	3	Senior Project	
+CIS 4905	3	Independent Study	
+CIS 4431	3	IT Automation	
+CIS 4363	3	Computer and Network Security	
+CIS 3930	3	Special Topics	
+CIS 3900	3	Independent Study	
+CGS 6834	3	Programming for the web	
+CGS 5993	3	Computer Literacy for Performing Arts Production	
+CGS 5166	2	Introduction to Bioinformatics Tools	
+CGS 499X	1	Applied Networking II	
+CGS 4993	3	Advanced Applied Computer Networking	
+CGS 4854	3	Website Construction and Management	
+CGS 4365	3	Knowledge-Based Management Systems	
+CGS 4285	3	Applied Computer Networking	
+CGS 4283	3	Applied Computer Networking	
+CGS 4254	3	Applied Computer Networking	
+CGS 3767L	1	Computer Operating Systems	
+CGS 3767	3	Computer Operating Systems	
+CGS 3760	3	Computer Operating Systems	
+CGS 3559	1	Using the Internet	
+CGS 3425	3	Web-based Programming	
+CGS 3416	3	Web-based Programming	
+CGS 3260	3	Microcomputer Organization	
+CGS 3095L	3	Technology in the Global Arena	
+CGS 3095	3	Technology in the Global Arena	
+CGS 3092	1	Professional Ethics and Social Issues in Computer Science	
+CGS 2518L	3	Data Analysis Lab	
+CGS 2518	3	Data Analysis	
+CGS 2100L	3	Business Lab	
+CGS 2100	3	Intro to Microcomputer Applications for Business	
+CGS 2060L	3	MicroComputer Lab	
+CGS 2060	3	Introduction to Microcomputers	
+CGS 1920	1	Introduction to Computing	
+CEN 6502	3	Advanced Topics in Concurrent and Distributed Systems	
+CEN 6501	3	Distributed Processing	
+CEN 6075	3	Software Specification	
+CEN 6070	3	Software Verification	
+CEN 5XXX	3	High-Performance Grid Computing and Research Networking	
+CEN 5120	3	Expert Systems	
+CEN 5087	3	Software and Data Modeling	
+CEN 5082	3	Grid Enablement of Scientific Applications	
+CEN 5079	3	Secure Application Programming	
+CEN 5076	3	Software Testing	
+CEN 5064	3	Software Design	
+CEN 5011L	3	Advanced Software Engineering	
+CEN 5011	3	Advanced Software Engineering	
+CEN 4500	3	Data Communications	
+CEN 4072	3	Fundamentals of Software Testing	
+CEN 4023	3	Component-Based Software Development	
+CEN 4021	3	Software Engineering II	
+CEN 4015	3	Software Design and Development Project	
+CEN 4012	3	Software Design and Development Project	
+CEN 4010	3	Software Engineering I	
+CEN 3721	3	Introduction to Human-Computer Interaction	
+CEN 2300	3	Microsoft Windows NT Administration	
+CDA 6939	3	Special Topics - Advanced Topics in Computer Architecture	
+CDA 5655	3	Virtualized Systems	
+CDA 5312	3	Micro Processing for Software Designers	
+CDA 4101L	1	Structure Comp Org Lab	
+CDA 4101	3	Structured Computer Organization	
+CDA 3103L	3	Intro. To Computing Systems Lab section	
+CDA 3103	3	Fundamentals of Computer Systems	
+CDA 3003	3	Microcomputer Organization	
+CAP 6990	2	Bioinformatics Tools	
+CAP 6778	3	Advanced Topics in Data Mining	
+CAP 6776	3	Advanced Topics in Information Retrieval	
+CAP 6736	3	Geometric Modeling and Shape Analysis	
+CAP 5990	3	Affective Intelligent Agents	
+CAP 5771	3	Principles of Data Mining	
+CAP 5738	3	Data Visualization	
+CAP 5701	3	Advanced Computer Graphics	
+CAP 5627	3	Affective Intelligent Agents	
+CAP 5610	3	Introduction to Machine Learning	
+CAP 5602	3	Introduction to Artificial Intelligence	
+CAP 5510C	3	Introduction to Bioinformatics	
+CAP 5011	3	Multimedia Systems and Applications	
+CAP 4770	3	Introduction to Data Mining	
+CAP 4710	3	Principles to Computer Graphics	
+CAP 3993	3	Introduction to Human-Computer Interaction
+test 54454	3	Test Test
